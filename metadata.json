@@ -1,0 +1,5 @@
+{
+  "name": "OpenRouter PDF Quiz",
+  "description": "Generate and take interactive quizzes from any PDF using OpenRouter AI.",
+  "requestFramePermissions": []
+}
